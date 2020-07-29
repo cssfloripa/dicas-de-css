@@ -12,3 +12,7 @@ Isso assegura de que browsers modernos possam disponibilizar o espaço correto d
 ```html
 <img src="image.jpg">   ---->    <img src="image.jpg" width="320" height="480">
 ```
+
+----
+
+**Fonte:** [Tweet de Addy Osmani](https://twitter.com/addyosmani/status/1276779799198007301) 
