@@ -24,3 +24,6 @@ Se você quer que um vídeo, por exemplo, mantenha a proporção de 16:9, você 
     padding-top: 62.5%;  /* Proporção: 16:10 */
   }
 ```
+
+
+Leia mais nesse artigo: https://css-tricks.com/aspect-ratio-boxes/ (Inglês)
